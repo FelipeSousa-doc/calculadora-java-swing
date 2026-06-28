@@ -34,4 +34,3 @@ O código-fonte está dividido em dois pacotes principais:
 4. Execute a classe `Calc.java` (localizada em `src/br/udf/edu/Calc.java`).
 ---
 *Desenvolvido para fins de aprendizado em programação Java e interface gráfica.*
-# calculadora-java-swing
